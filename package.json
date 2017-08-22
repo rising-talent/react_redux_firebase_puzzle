@@ -1,0 +1,41 @@
+{
+  "name": "match_puzzle",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^4.2.0",
+    "install": "^0.10.1",
+    "material-ui": "^1.0.0-beta.5",
+    "npm": "^5.3.0",
+    "react": "^15.6.1",
+    "react-bootstrap-table": "^4.0.0",
+    "react-data-grid": "^2.0.55",
+    "react-data-grid-addons": "^2.0.55",
+    "react-dom": "^15.6.1",
+    "react-firebase-image-uploader": "^1.1.0",
+    "react-grid-system": "^2.9.5",
+    "react-icons": "^2.2.5",
+    "react-numeric-input": "^2.1.0",
+    "react-progress-button": "^5.0.4",
+    "react-redux": "^5.0.5",
+    "react-router": "^3.0.5",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "1.0.10",
+    "react-svg": "^2.1.21",
+    "react-tabs": "^1.1.0",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.5.2",
+    "redux-form": "^5.2.5",
+    "redux-form-utils": "^1.1.2",
+    "redux-logger": "^2.6.1",
+    "redux-promise-middleware": "^4.3.0",
+    "redux-thunk": "^2.1.0",
+    "styled-components": "^2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

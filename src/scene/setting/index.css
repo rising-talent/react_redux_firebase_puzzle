@@ -1,0 +1,81 @@
+.explain {
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+    margin: 50px;
+    line-height: 40px;
+}
+
+.settingView {
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.setting-row {
+    display: flex
+}
+
+.avatarController {
+    display: none
+}
+
+.avatarImage {
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    object-fit: cover; 
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.section{
+    display: flex;
+    height: auto;
+    align-items: center;
+    padding: 015px
+}
+
+.section-title{
+    display: flex;
+    height: auto;
+    align-items: center;
+    padding: 15px;
+    color: yellow
+}
+
+.progressText {
+    font-size: 15px;
+    color: #FFEB3B
+}
+
+.numberLabel {
+    font-size: 20px;
+    background: transparent;
+    width: 100%;
+    margin-top: 0px;
+    padding-bottom: 30px;
+    height: 60px
+}
+
+.numberInput {
+    font-size: 30px;
+    background: transparent;
+    border: 0px solid white;
+    color: white;
+    width: 100%;
+}
+
+.numberView {
+    background: transparent;
+    width: 250px
+}
+
+.saveButton {
+    margin-top: 100px;
+    width: 200px;
+    height: 80px;
+}

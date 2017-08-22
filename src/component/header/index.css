@@ -1,0 +1,14 @@
+.header-titleView {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 12px
+}
+
+.header-moreButtonView {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100%;
+    padding: 12px
+}

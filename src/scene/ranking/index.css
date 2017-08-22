@@ -1,0 +1,95 @@
+.tableContainer {
+    margin-top: 50px;
+    min-width: 600px
+}
+
+.rankingTitle {
+    font-size: 50px;
+    color: white;
+    margin-bottom: 60px;
+    margin-top: 60px
+}
+
+.header-cell-row {
+    background: rgba(255, 255, 0, 0.9);
+    border-right: 1px solid #111;
+    border-left: 1px solid #111;
+    border-top: 1px solid #111;
+    height: 50px;
+    color: #222;
+    display: flex;
+    align-items: center;
+}
+
+.header-cell {
+    background: rgba(255, 255, 0, 0.9);
+    border-right: 1px solid #111;
+    border-bottom: 1px solid #111;
+    height: 50px;
+    color: #222;
+    display: flex;
+    align-items: center;
+}
+
+.header-cell-action {
+    background: rgba(255, 255, 0, 0.9);
+    border-bottom: 1px solid #111;
+    height: 50px;
+    color: #222;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.tableRow {
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    border-left: 1px solid #111;
+}
+
+.tableRow:hover {
+    background: rgba(125, 170, 255, 0.9);
+}
+
+.table-cell {    
+    border-right: 1px solid #111;
+    border-bottom: 1px solid #111;
+    height: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    overflow-x: hidden
+}
+
+.table-cell:hover { 
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.table-cell-action {
+    border-right: 1px solid #111;
+    border-bottom: 1px solid #111;
+    height: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    overflow-x: hidden
+}
+
+.row {
+    display: flex;
+    align-items: center
+}
+
+.trophyIcon {
+    margin-right: 10px
+}
+
+.photo {
+    width: 30px;
+    height: 30px;
+    object-fit: fill; 
+    border-radius: 30px;
+    margin-right: 10px
+}
+
